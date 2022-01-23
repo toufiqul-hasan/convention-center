@@ -25,3 +25,21 @@ body {
   font-family: 'Poppins', sans-serif;
   font-weight: 500;
 }
+
+.carousel-caption h1 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 48px;
+}
+
+.carousel-caption p {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+}
+
+.carousel-caption a {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+}
