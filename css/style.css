@@ -43,3 +43,28 @@ body {
   font-weight: 700;
   font-size: 16px;
 }
+
+/*-------------------------------------------------------------*/
+                        /*  FOOTER */
+/*-------------------------------------------------------------*/
+
+footer {
+  background: #0B0D17;
+  height: 280px;
+  padding: 25px;
+  margin-top: 100px;
+}
+
+.copyright-message {
+  font-family: 'Manrope', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  color: #D9DBE1;
+}
+
+.get-app {
+  font-family: 'Manrope', sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  color: #D9DBE1;
+}
