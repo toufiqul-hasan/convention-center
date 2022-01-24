@@ -37,6 +37,24 @@
 }
 
 /*-------------------------------------------------------------*/
+                        /* MOMENT-SECTION */
+/*-------------------------------------------------------------*/
+
+.moment-section h1 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 38px;
+  color: #0A0826;
+}
+
+.moment-section p {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  color: #6C6C6C;
+}
+
+/*-------------------------------------------------------------*/
                         /* PACKAGE-SECTION */
 /*-------------------------------------------------------------*/
 
@@ -125,6 +143,38 @@
 }
 
 /*-------------------------------------------------------------*/
+                        /* CLIENT-SECTION */
+/*-------------------------------------------------------------*/
+
+.client-section h1 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 38px;
+  color: #0A0826;
+}
+
+.client-section h2 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: #6C6C6C;
+}
+
+.client-section h3 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  color: #0C1920;
+}
+
+.client-section span {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  color: #747474;
+}
+
+/*-------------------------------------------------------------*/
                         /* FAQ-SECTION */
 /*-------------------------------------------------------------*/
 
@@ -150,7 +200,7 @@
 }
 
 /*-------------------------------------------------------------*/
-                        /* Newsletter-SECTION */
+                        /* NEWSLETTER-SECTION */
 /*-------------------------------------------------------------*/
 
 .newsletter-section h1{
